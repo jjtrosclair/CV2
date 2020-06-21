@@ -94,7 +94,8 @@ main {
 
 .nav-link:hover {
     filter: grayscale(0) opacity(1);
-    background: gray;
+    background: blue;
+
 }
 
 
